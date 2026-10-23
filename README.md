@@ -68,13 +68,13 @@ PROJECT EDITING NOTES
       <sub>[KEYWORD] · [KEYWORD] · [KEYWORD]</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="PROJECT-04-REPOSITORY-URL"><img src="assets/project-04.svg" width="100%" alt="Project 04 — illustrative software architecture placeholder"></a>
+      <a href="[PROJECT-04-REPOSITORY-URL](https://github.com/rseyfullayev/tripweave)"><img src="assets/project-04.svg" width="100%" alt="Project 04 — illustrative software architecture placeholder"></a>
       <br><br>
-      <sub>04 / SOFTWARE ENGINEERING · [STATUS OR YEAR]</sub>
-      <h3>[Software Engineering / Project Title]</h3>
-      <p>[Describe the system, its principal design decisions, and the part you designed or implemented.]</p>
+      <sub>04 / SOFTWARE ENGINEERING · 2026</sub>
+      <h3>Trip Weave</h3>
+      <p>[Tripweave is a website where groups can suggest and vote on activities, build a daily travel plan, and see their route on a map. AI can recommend places, but users decide what gets added.</p>
       <p><a href="PROJECT-04-REPOSITORY-URL"><code>VIEW REPOSITORY ↗</code></a></p>
-      <sub>[KEYWORD] · [KEYWORD] · [KEYWORD]</sub>
+      <sub>FULL-STACK DEVELOPMENT · AI INTEGRATION · TEAM COLLABORATION</sub>
     </td>
   </tr>
 </table>
