@@ -4,7 +4,7 @@
 
 
 ### Engineering intelligent computation from fields to architectures.
- &nbsp;·&nbsp; AI Accelerators  &nbsp;·&nbsp; AI Software/Hardware Co-Design  &nbsp;·&nbsp; Neuromorphic Systems </sub>
+AI Accelerators  &nbsp;·&nbsp; AI Software/Hardware Co-Design  &nbsp;·&nbsp; Neuromorphic Systems </sub>
 
 </div>
 
