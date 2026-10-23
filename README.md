@@ -1,5 +1,13 @@
 <div align="center">
-  <img src="assets/header.svg" width="100%" alt="Ravan Seyfullayev — engineering intelligent computation from fields to architectures">
+
+<sub>COMPUTER ENGINEERING &nbsp;/&nbsp; RESEARCH</sub>
+
+# Ravan Seyfullayev
+
+### Engineering intelligent computation from fields to architectures.
+
+<sub>COMPUTATIONAL PHOTONICS &nbsp;·&nbsp; NEUROMORPHIC SYSTEMS &nbsp;·&nbsp; EFFICIENT MACHINE LEARNING</sub>
+
 </div>
 
 <br>
