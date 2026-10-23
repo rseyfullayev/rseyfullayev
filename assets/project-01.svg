@@ -1,11 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
   <title id="title">Computational photonics project placeholder</title><desc id="desc">An illustrative optical field and waveguide composition, not experimental data.</desc>
-  <rect width="1200" height="480" fill="#F5F2EB"/>
-  <g stroke="#DAD5CB" opacity=".7"><path d="M0 80h1200M0 160h1200M0 240h1200M0 320h1200M0 400h1200"/><path d="M120 0v480M240 0v480M360 0v480M480 0v480M600 0v480M720 0v480M840 0v480M960 0v480M1080 0v480"/></g>
-  <path d="M55 244h225c106 0 130-105 240-105h160c110 0 134 105 240 105h225" fill="none" stroke="#292824" stroke-width="24" opacity=".1"/>
-  <path d="M55 244h225c106 0 130-105 240-105h160c110 0 134 105 240 105h225" fill="none" stroke="#292824" stroke-width="3"/>
-  <path d="M55 244h225c106 0 130 105 240 105h160c110 0 134-105 240-105h225" fill="none" stroke="#B46A50" stroke-width="3"/>
-  <g fill="none" stroke="#B46A50" opacity=".4"><ellipse cx="600" cy="244" rx="183" ry="129"/><ellipse cx="600" cy="244" rx="139" ry="96"/><ellipse cx="600" cy="244" rx="94" ry="63"/><ellipse cx="600" cy="244" rx="50" ry="31"/></g>
-  <rect x="54" y="48" width="278" height="34" fill="#F5F2EB"/><text x="62" y="72" fill="#B46A50" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2.2">01 / COMPUTATIONAL PHOTONICS</text>
-  <text x="1138" y="434" text-anchor="end" fill="#77736C" font-family="Arial,sans-serif" font-size="11" letter-spacing="1.5">ILLUSTRATIVE PLACEHOLDER · REPLACE WITH PROJECT EVIDENCE</text>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B2D5E"/><stop offset="1" stop-color="#041A3B"/></linearGradient></defs>
+  <rect width="1200" height="480" fill="url(#bg)"/>
+  <g stroke="#7690B0" opacity=".25"><path d="M0 80h1200M0 160h1200M0 240h1200M0 320h1200M0 400h1200"/><path d="M120 0v480M240 0v480M360 0v480M480 0v480M600 0v480M720 0v480M840 0v480M960 0v480M1080 0v480"/></g>
+  <path d="M55 244h225c106 0 130-105 240-105h160c110 0 134 105 240 105h225" fill="none" stroke="#F5F2EB" stroke-width="24" opacity=".1"/>
+  <path d="M55 244h225c106 0 130-105 240-105h160c110 0 134 105 240 105h225" fill="none" stroke="#F5F2EB" stroke-width="3"/>
+  <path d="M55 244h225c106 0 130 105 240 105h160c110 0 134-105 240-105h225" fill="none" stroke="#D88468" stroke-width="3"/>
+  <g fill="none" stroke="#D88468" opacity=".55"><ellipse cx="600" cy="244" rx="183" ry="129"/><ellipse cx="600" cy="244" rx="139" ry="96"/><ellipse cx="600" cy="244" rx="94" ry="63"/><ellipse cx="600" cy="244" rx="50" ry="31"/></g>
+  <rect x="54" y="48" width="278" height="34" fill="#0A2854"/><text x="62" y="72" fill="#D88468" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2.2">01 / COMPUTATIONAL PHOTONICS</text>
+  <text x="1138" y="434" text-anchor="end" fill="#B7C2D2" font-family="Arial,sans-serif" font-size="11" letter-spacing="1.5">ILLUSTRATIVE PLACEHOLDER · REPLACE WITH PROJECT EVIDENCE</text>
 </svg>
