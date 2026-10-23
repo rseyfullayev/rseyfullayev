@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 470" role="img" aria-labelledby="title desc">
+  <title id="title">Ravan Seyfullayev</title>
+  <desc id="desc">An editorial introduction for a computer engineering researcher.</desc>
+  <rect width="1200" height="470" fill="#F5F2EB"/>
+  <path d="M56 52h1088M56 369h1088" stroke="#DAD5CB"/>
+  <text x="56" y="91" fill="#B46A50" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="3">COMPUTER ENGINEERING / RESEARCH</text>
+  <text x="56" y="200" fill="#292824" font-family="Georgia,'Times New Roman',serif" font-size="66">Ravan Seyfullayev</text>
+  <text x="58" y="254" fill="#77736C" font-family="Arial,Helvetica,sans-serif" font-size="21" letter-spacing=".3">Engineering intelligent computation from fields to architectures.</text>
+  <g transform="translate(760 118)" fill="none">
+    <path d="M0 94c51-72 102-72 153 0s102 72 153 0 83-62 104-30" stroke="#DAD5CB" stroke-width="2"/>
+    <path d="M0 94c51-43 102-43 153 0s102 43 153 0 83-37 104-19" stroke="#B46A50" stroke-width="2"/>
+    <circle cx="153" cy="94" r="6" fill="#B46A50"/>
+    <circle cx="306" cy="94" r="6" fill="#292824"/>
+    <path d="M153 94v84h153V94M192 136h76M230 94v84" stroke="#77736C"/>
+    <circle cx="192" cy="136" r="3.5" fill="#292824"/><circle cx="268" cy="136" r="3.5" fill="#292824"/><circle cx="230" cy="178" r="3.5" fill="#B46A50"/>
+  </g>
+  <text x="56" y="414" fill="#77736C" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2">PHOTONICS · NEUROMORPHIC SYSTEMS · EFFICIENT MACHINE LEARNING</text>
+  <text x="1144" y="414" text-anchor="end" fill="#B46A50" font-family="Georgia,'Times New Roman',serif" font-size="22">01</text>
+</svg>
