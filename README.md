@@ -2,11 +2,9 @@
 
 <sub>COMPUTER ENGINEERING &nbsp;/&nbsp; RESEARCH</sub>
 
-# Ravan Seyfullayev
 
 ### Engineering intelligent computation from fields to architectures.
-
-<sub>COMPUTATIONAL PHOTONICS &nbsp;·&nbsp; NEUROMORPHIC SYSTEMS &nbsp;·&nbsp; EFFICIENT MACHINE LEARNING</sub>
+ &nbsp;·&nbsp; AI Accelerators  &nbsp;·&nbsp; AI Software/Hardware Co-Design  &nbsp;·&nbsp; Neuromorphic Systems </sub>
 
 </div>
 
@@ -16,13 +14,15 @@
 
 ---
 
-I am interested in how computation changes when algorithms are designed together with the physical systems that execute them—from electromagnetic fields in integrated photonics to event-driven processing in neuromorphic hardware.
+Hi, I’m Ravan. I’m interested in building more efficient, capable, and reliable machine learning systems.
 
-My work focuses on **computational efficiency**, **hardware-aware machine learning**, and the translation of mathematical models into practical computing architectures.
+
+
+My work focuses on **computational efficiency**, **hardware-aware machine learning**, and the applications of mathematical models into computing architectures.
 
 <br>
 
-<sub>02 &nbsp;·&nbsp; SELECTED WORK</sub>
+<sub>02 &nbsp;·&nbsp; Selected Works</sub>
 
 ---
 
@@ -101,10 +101,6 @@ technical report, or piece of research writing to include.
 <sub>04 &nbsp;·&nbsp; PUBLICATIONS & WRITING</sub>
 
 ---
-
-**[Title of publication, preprint, or technical report]**  
-[Author list]. *[Venue or status]*, [Year]. &nbsp; [`READ ↗`]([PUBLICATION-URL])
-
 <br>
 
 <sub>05 &nbsp;·&nbsp; CONTACT</sub>
