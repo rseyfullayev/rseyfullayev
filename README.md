@@ -28,51 +28,48 @@ PROJECT EDITING NOTES
 5. Recommended image ratio: 16:7 or approximately 1200 × 525 px.
 -->
 
-### 01 — [Integrated Photonic AI / Project Title]
-
-[![Project 01 — illustrative photonic field study placeholder](assets/project-01.svg)]([PROJECT-01-REPOSITORY-URL])
-
-<sub>COMPUTATIONAL PHOTONICS &nbsp;·&nbsp; [STATUS OR YEAR]</sub>
-
-[Write a concise description of the research question, the method used, and your technical contribution. Mention tools or techniques only when they are central to the work.]
-
-[`VIEW REPOSITORY ↗`]([PROJECT-01-REPOSITORY-URL]) &nbsp; <sub>[KEYWORD] · [KEYWORD] · [KEYWORD]</sub>
-
-<br><br>
-
-### 02 — [Neuromorphic Computing Accelerator / Project Title]
-
-[![Project 02 — illustrative neuromorphic architecture placeholder](assets/project-02.svg)]([PROJECT-02-REPOSITORY-URL])
-
-<sub>NEUROMORPHIC HARDWARE &nbsp;·&nbsp; [STATUS OR YEAR]</sub>
-
-[Describe the architecture, implemented components, and current scope. Distinguish clearly between completed work and planned work.]
-
-[`VIEW REPOSITORY ↗`]([PROJECT-02-REPOSITORY-URL]) &nbsp; <sub>[KEYWORD] · [KEYWORD] · [KEYWORD]</sub>
-
-<br><br>
-
-### 03 — [Machine Learning & Computer Vision / Project Title]
-
-[![Project 03 — illustrative latent-space study placeholder](assets/project-03.svg)]([PROJECT-03-REPOSITORY-URL])
-
-<sub>MACHINE LEARNING &nbsp;·&nbsp; [STATUS OR YEAR]</sub>
-
-[Describe the problem, experimental approach, and what the project demonstrates. Avoid unsupported claims or isolated metrics without context.]
-
-[`VIEW REPOSITORY ↗`]([PROJECT-03-REPOSITORY-URL]) &nbsp; <sub>[KEYWORD] · [KEYWORD] · [KEYWORD]</sub>
-
-<br><br>
-
-### 04 — [Software Engineering / Project Title]
-
-[![Project 04 — illustrative software architecture placeholder](assets/project-04.svg)]([PROJECT-04-REPOSITORY-URL])
-
-<sub>SOFTWARE ENGINEERING &nbsp;·&nbsp; [STATUS OR YEAR]</sub>
-
-[Describe the system, the engineering decisions behind it, and the part you designed or implemented.]
-
-[`VIEW REPOSITORY ↗`]([PROJECT-04-REPOSITORY-URL]) &nbsp; <sub>[KEYWORD] · [KEYWORD] · [KEYWORD]</sub>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="PROJECT-01-REPOSITORY-URL"><img src="assets/project-01.svg" width="100%" alt="Project 01 — illustrative photonic field study placeholder"></a>
+      <br><br>
+      <sub>01 / COMPUTATIONAL PHOTONICS · [STATUS OR YEAR]</sub>
+      <h3>[Integrated Photonic AI / Project Title]</h3>
+      <p>[Describe the research question, method, and your technical contribution in one or two concise sentences.]</p>
+      <p><a href="PROJECT-01-REPOSITORY-URL"><code>VIEW REPOSITORY ↗</code></a></p>
+      <sub>[KEYWORD] · [KEYWORD] · [KEYWORD]</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="PROJECT-02-REPOSITORY-URL"><img src="assets/project-02.svg" width="100%" alt="Project 02 — illustrative neuromorphic architecture placeholder"></a>
+      <br><br>
+      <sub>02 / NEUROMORPHIC HARDWARE · [STATUS OR YEAR]</sub>
+      <h3>[Neuromorphic Accelerator / Project Title]</h3>
+      <p>[Describe the architecture, implemented components, and current scope. Separate completed work from planned work.]</p>
+      <p><a href="PROJECT-02-REPOSITORY-URL"><code>VIEW REPOSITORY ↗</code></a></p>
+      <sub>[KEYWORD] · [KEYWORD] · [KEYWORD]</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="PROJECT-03-REPOSITORY-URL"><img src="assets/project-03.svg" width="100%" alt="Project 03 — illustrative latent-space study placeholder"></a>
+      <br><br>
+      <sub>03 / MACHINE LEARNING · [STATUS OR YEAR]</sub>
+      <h3>[Machine Learning &amp; Vision / Project Title]</h3>
+      <p>[Describe the problem, experimental approach, and what the project demonstrates. Keep metrics in context.]</p>
+      <p><a href="PROJECT-03-REPOSITORY-URL"><code>VIEW REPOSITORY ↗</code></a></p>
+      <sub>[KEYWORD] · [KEYWORD] · [KEYWORD]</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="PROJECT-04-REPOSITORY-URL"><img src="assets/project-04.svg" width="100%" alt="Project 04 — illustrative software architecture placeholder"></a>
+      <br><br>
+      <sub>04 / SOFTWARE ENGINEERING · [STATUS OR YEAR]</sub>
+      <h3>[Software Engineering / Project Title]</h3>
+      <p>[Describe the system, its principal design decisions, and the part you designed or implemented.]</p>
+      <p><a href="PROJECT-04-REPOSITORY-URL"><code>VIEW REPOSITORY ↗</code></a></p>
+      <sub>[KEYWORD] · [KEYWORD] · [KEYWORD]</sub>
+    </td>
+  </tr>
+</table>
 
 <br>
 
