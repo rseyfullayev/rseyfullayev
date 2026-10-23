@@ -22,20 +22,7 @@ My work focuses on **computational efficiency**, **hardware-aware machine learni
 
 <br>
 
-<sub>02 &nbsp;·&nbsp; DEVELOPMENT ACTIVITY</sub>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/development-activity.svg">
-  <img src="assets/development-activity.svg" width="100%" alt="Ravan Seyfullayev's GitHub development activity">
-</picture>
-
-<sub>Updated automatically every day from public GitHub activity.</sub>
-
-<br>
-
-<sub>03 &nbsp;·&nbsp; SELECTED WORK</sub>
+<sub>02 &nbsp;·&nbsp; SELECTED WORK</sub>
 
 ---
 
@@ -94,7 +81,7 @@ PROJECT EDITING NOTES
 
 <br>
 
-<sub>04 &nbsp;·&nbsp; RESEARCH INTERESTS</sub>
+<sub>03 &nbsp;·&nbsp; RESEARCH INTERESTS</sub>
 
 ---
 
@@ -111,7 +98,7 @@ Remove this entire section until you have a verified publication, preprint,
 technical report, or piece of research writing to include.
 -->
 
-<sub>05 &nbsp;·&nbsp; PUBLICATIONS & WRITING</sub>
+<sub>04 &nbsp;·&nbsp; PUBLICATIONS & WRITING</sub>
 
 ---
 
@@ -120,7 +107,7 @@ technical report, or piece of research writing to include.
 
 <br>
 
-<sub>06 &nbsp;·&nbsp; CONTACT</sub>
+<sub>05 &nbsp;·&nbsp; CONTACT</sub>
 
 ---
 
