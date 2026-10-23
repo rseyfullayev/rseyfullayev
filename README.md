@@ -1,21 +1,5 @@
 <div align="center">
-
-<sub>COMPUTER ENGINEERING &nbsp;·&nbsp; RESEARCH &nbsp;·&nbsp; INTELLIGENT SYSTEMS</sub>
-
-# Ravan Seyfullayev
-
-### Engineering the next generation of intelligent computing.
-
-<p>
-Computer Engineering student and researcher working at the intersection of<br>
-integrated photonics, neuromorphic computing, AI accelerator architectures,<br>
-and hardware/software co-design.
-</p>
-
-<br>
-
-`ISTANBUL, TÜRKİYE` &nbsp;&nbsp; `/` &nbsp;&nbsp; `OPEN TO RESEARCH COLLABORATION`
-
+  <img src="assets/header.svg" width="100%" alt="Ravan Seyfullayev — engineering intelligent computation from fields to architectures">
 </div>
 
 <br>
@@ -37,7 +21,7 @@ My work focuses on **computational efficiency**, **hardware-aware machine learni
 <!--
 PROJECT EDITING NOTES
 
-1. Replace each assets/project-XX.png path with your own image path.
+1. Replace each assets/project-XX.svg path with your own image path, or edit the supplied SVG.
 2. Replace every [PLACEHOLDER] value with verified project information.
 3. Keep descriptions concise: one or two sentences.
 4. Do not include benchmark results unless the repository supports them.
@@ -46,7 +30,7 @@ PROJECT EDITING NOTES
 
 ### 01 — [Integrated Photonic AI / Project Title]
 
-[![Project 01 — replace with an authentic simulation, field map, or technical illustration](assets/project-01.png)]([PROJECT-01-REPOSITORY-URL])
+[![Project 01 — illustrative photonic field study placeholder](assets/project-01.svg)]([PROJECT-01-REPOSITORY-URL])
 
 <sub>COMPUTATIONAL PHOTONICS &nbsp;·&nbsp; [STATUS OR YEAR]</sub>
 
@@ -58,7 +42,7 @@ PROJECT EDITING NOTES
 
 ### 02 — [Neuromorphic Computing Accelerator / Project Title]
 
-[![Project 02 — replace with an authentic architecture diagram or technical illustration](assets/project-02.png)]([PROJECT-02-REPOSITORY-URL])
+[![Project 02 — illustrative neuromorphic architecture placeholder](assets/project-02.svg)]([PROJECT-02-REPOSITORY-URL])
 
 <sub>NEUROMORPHIC HARDWARE &nbsp;·&nbsp; [STATUS OR YEAR]</sub>
 
@@ -70,7 +54,7 @@ PROJECT EDITING NOTES
 
 ### 03 — [Machine Learning & Computer Vision / Project Title]
 
-[![Project 03 — replace with an authentic plot, model diagram, or technical illustration](assets/project-03.png)]([PROJECT-03-REPOSITORY-URL])
+[![Project 03 — illustrative latent-space study placeholder](assets/project-03.svg)]([PROJECT-03-REPOSITORY-URL])
 
 <sub>MACHINE LEARNING &nbsp;·&nbsp; [STATUS OR YEAR]</sub>
 
@@ -82,7 +66,7 @@ PROJECT EDITING NOTES
 
 ### 04 — [Software Engineering / Project Title]
 
-[![Project 04 — replace with an authentic system diagram, interface, or technical illustration](assets/project-04.png)]([PROJECT-04-REPOSITORY-URL])
+[![Project 04 — illustrative software architecture placeholder](assets/project-04.svg)]([PROJECT-04-REPOSITORY-URL])
 
 <sub>SOFTWARE ENGINEERING &nbsp;·&nbsp; [STATUS OR YEAR]</sub>
 
