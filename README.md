@@ -39,7 +39,7 @@ PROJECT EDITING NOTES
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="PROJECT-01-REPOSITORY-URL"><img src="assets/project-01.svg" width="100%" alt="Project 01 — illustrative photonic field study placeholder"></a>
+      <a href="PROJECT-01-REPOSITORY-URL"><img src="assets/project-01.png" width="100%" alt="Project 01 — illustrative photonic field study placeholder"></a>
       <br><br>
       <sub>01 / COMPUTATIONAL PHOTONICS · [STATUS OR YEAR]</sub>
       <h3>[Integrated Photonic AI / Project Title]</h3>
